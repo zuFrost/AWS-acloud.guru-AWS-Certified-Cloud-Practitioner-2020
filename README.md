@@ -21,6 +21,7 @@ https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html <b
 Cloud Products https://aws.amazon.com/products/ <br>
 ![Choosing the right AWS Region.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.2%20Around%20The%20World%20With%20AWS/Choosing%20the%20right%20AWS%20Region.png) <br>
 ### 2.3 Let's Log In To AWS
+![support packages.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.3%20Let's%20Log%20In%20To%20AWS/support%20packages.png) <br>
 ### 2.4 Setting Up On A Mac
 ### 2.5 Setting Up On A Windows PC
 ### 2.6 Setting Up A Billing Alarm
