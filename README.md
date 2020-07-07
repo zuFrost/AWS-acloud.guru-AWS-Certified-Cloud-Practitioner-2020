@@ -1,7 +1,24 @@
 # AWS Certified Cloud Practitioner 2020
 https://learn.acloud.guru/course/aws-certified-cloud-practitioner/ <br>
+
 ## CHAPTER 1 Introduction
 ### 1.1 Who Can Do This Course
 ### 1.2 The Exam Blue Print
 ![The Exam BluePrint.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/01.2%20The%20Exam%20Blue%20Print/The%20Exam%20BluePrint.png) <br>
 ![AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/01.2%20The%20Exam%20Blue%20Print/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf) <br>
+
+## CHAPTER 2 Cloud Concepts And Technology
+### 2.1 What Is Cloud Computing?
+Overview of Amazon Web Services <br>
+https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html <br>
+### 2.2 Around The World With AWS
+### 2.3 Let's Log In To AWS
+### 2.4 Setting Up On A Mac
+### 2.5 Setting Up On A Windows PC
+### 2.6 Setting Up A Billing Alarm
+### 2.7 Let’s Start To Cloud! Identity Access Management (IAM)
+### 2.8 S3 101
+### 2.9 Let's Create An S3 Bucket!
+### 2.10 Let's Create A Website On S3
+### 2.11 Let's Explore CloudFront
+
