@@ -18,6 +18,7 @@ https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html <b
 ![3 Types of Cloud Computing Deployments.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.1%20What%20Is%20Cloud%20Computing/3%20Types%20of%20Cloud%20Computing%20Deployments.png) <br>
 
 ### 2.2 Around The World With AWS
+Cloud Products https://aws.amazon.com/products/ <br>
 ### 2.3 Let's Log In To AWS
 ### 2.4 Setting Up On A Mac
 ### 2.5 Setting Up On A Windows PC
