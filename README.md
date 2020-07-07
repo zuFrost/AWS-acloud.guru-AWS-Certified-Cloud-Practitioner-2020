@@ -29,6 +29,8 @@ Cloud Products https://aws.amazon.com/products/ <br>
 ![access to AWS platform.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.7%20Let%E2%80%99s%20Start%20To%20Cloud!%20Identity%20Access%20Management%20(IAM)/access%20to%20AWS%20platform.png) <br>
 ![IAM is Globally.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.7%20Let%E2%80%99s%20Start%20To%20Cloud!%20Identity%20Access%20Management%20(IAM)/IAM%20is%20Globally.png) <br>
 ### 2.8 S3 101
+Amazon Simple Storage Service <br>
+Amazon S3 storage classes https://docs.aws.amazon.com/AmazonS3/latest/dev/storage-class-intro.html <br>
 ### 2.9 Let's Create An S3 Bucket!
 ### 2.10 Let's Create A Website On S3
 ### 2.11 Let's Explore CloudFront
