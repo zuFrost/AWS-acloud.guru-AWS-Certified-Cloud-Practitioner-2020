@@ -11,6 +11,12 @@ https://learn.acloud.guru/course/aws-certified-cloud-practitioner/ <br>
 ### 2.1 What Is Cloud Computing?
 Overview of Amazon Web Services <br>
 https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html <br>
+![Cloud Practitioner Exam.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.1%20What%20Is%20Cloud%20Computing/Cloud%20Practitioner%20Exam.png) <br>
+![Cloud Practitioner Exam realy.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.1%20What%20Is%20Cloud%20Computing/Cloud%20Practitioner%20Exam%20realy.png) <br>
+![6 Advantages of Cloud.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.1%20What%20Is%20Cloud%20Computing/6%20Advantages%20of%20Cloud.png) <br>
+![3 Types of Cloud Computing.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.1%20What%20Is%20Cloud%20Computing/3%20Types%20of%20Cloud%20Computing.png) <br>
+![3 Types of Cloud Computing Deployments.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.1%20What%20Is%20Cloud%20Computing/3%20Types%20of%20Cloud%20Computing%20Deployments.png) <br>
+
 ### 2.2 Around The World With AWS
 ### 2.3 Let's Log In To AWS
 ### 2.4 Setting Up On A Mac
