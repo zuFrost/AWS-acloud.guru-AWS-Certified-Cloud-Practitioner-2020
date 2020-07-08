@@ -47,6 +47,17 @@ S3 is Object based. Key - Value. <br>
 ![Exam Tips 05](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.8%20S3%20101/Exam%20Tips%2005.png) <br>
 
 ### 2.9 Let's Create An S3 Bucket!
+![Lab diagram 01.png]() <br>
+![Lab diagram 02.png]() <br>
+![Lab files for S3 Website]() <br>
+
+![Exam Tips 01.png]() <br>
+![Exam Tips 02.png]() <br>
+![Exam Tips 03.png]() <br>
+![Exam Tips 04.png]() <br>
+![Exam Tips 05.png]() <br>
+![]() <br>
+
 ### 2.10 Let's Create A Website On S3
 ### 2.11 Let's Explore CloudFront
 
