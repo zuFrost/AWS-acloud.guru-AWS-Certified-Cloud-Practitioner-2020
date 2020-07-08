@@ -85,7 +85,7 @@ EC2 Instance Types <br>
 
 ### 2.14 Using The Command Line
 
-![Exam Tips 01.png]() <br>
+![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.14%20Using%20The%20Command%20Line/Exam%20Tips%2001.png) <br>
 
 
 
