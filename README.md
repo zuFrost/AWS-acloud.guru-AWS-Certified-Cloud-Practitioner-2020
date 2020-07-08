@@ -98,9 +98,12 @@ EC2 Instance Types <br>
 \# service httpd start <br>
 
 ### 2.17 Let's Use A Load Balancer
-![UserData]() <br>
-![Exam Tips 01.png]() <br>
-![Exam Tips 02.png]() <br>
+![UserData](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.17%20Let's%20Use%20A%20Load%20Balancer/UserData.txt) <br>
+![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.17%20Let's%20Use%20A%20Load%20Balancer/Exam%20Tips%2001.png) <br>
+![Exam Tips 02.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.17%20Let's%20Use%20A%20Load%20Balancer/Exam%20Tips%2002.png) <br>
+
+
+
 ![]() <br>
 ![]() <br>
 
