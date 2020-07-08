@@ -97,10 +97,10 @@ EC2 Instance Types <br>
 \# yum install httpd -y <br>
 \# service httpd start <br>
 
-
-![]() <br>
-![]() <br>
-![]() <br>
+### 2.17 Let's Use A Load Balancer
+![UserData]() <br>
+![Exam Tips 01.png]() <br>
+![Exam Tips 02.png]() <br>
 ![]() <br>
 ![]() <br>
 
