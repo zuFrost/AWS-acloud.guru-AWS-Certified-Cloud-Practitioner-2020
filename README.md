@@ -33,18 +33,18 @@ Amazon Simple Storage Service <br>
 Amazon S3 storage classes https://docs.aws.amazon.com/AmazonS3/latest/dev/storage-class-intro.html <br>
 S3 is Object based. Key - Value. <br>
 ![s3 key value.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.8%20S3%20101/s3%20key%20value.png) <br>
-![Data Consistency Model for S3.png]() <br>
-![S3 features.png]() <br>
-![S3 Storage Classes01.png]() <br>
-![S3 Storage Classes02.png]() <br>
-![Comparing the Amazon S3 storage classes]() <br>
-![S3 Charges.png]() <br>
+![Data Consistency Model for S3.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.8%20S3%20101/Data%20Consistency%20Model%20for%20S3.png) <br>
+![S3 features.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.8%20S3%20101/S3%20features.png) <br>
+![S3 Storage Classes01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.8%20S3%20101/S3%20Storage%20Classes01.png) <br>
+![S3 Storage Classes02.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.8%20S3%20101/S3%20Storage%20Classes02.png) <br>
+![Comparing the Amazon S3 storage classes](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.8%20S3%20101/Comparing%20the%20Amazon%20S3%20storage%20classes.png) <br>
+![S3 Charges.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.8%20S3%20101/S3%20Charges.png) <br>
 #### Exam Tips
-![Exam Tips 01]() <br>
-![Exam Tips 02]() <br>
-![Exam Tips 03]() <br>
-![Exam Tips 04]() <br>
-![Exam Tips 05]() <br>
+![Exam Tips 01](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.8%20S3%20101/Exam%20Tips%2001.png) <br>
+![Exam Tips 02](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.8%20S3%20101/Exam%20Tips%2002.png) <br>
+![Exam Tips 03](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.8%20S3%20101/Exam%20Tips%2003.png) <br>
+![Exam Tips 04](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.8%20S3%20101/Exam%20Tips%2004.png) <br>
+![Exam Tips 05](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.8%20S3%20101/Exam%20Tips%2005.png) <br>
 
 ### 2.9 Let's Create An S3 Bucket!
 ### 2.10 Let's Create A Website On S3
