@@ -63,8 +63,8 @@ S3 is Object based. Key - Value. <br>
 
 ### 2.11 Let's Explore CloudFront
 CloudFront is Amazons Content Delovery Network CDN <br>
-![Exam Tips 01.png]() <br>
-![Exam Tips 02.png]() <br>
+![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.11%20Let's%20Explore%20CloudFront/Exam%20Tips%2001.png) <br>
+![Exam Tips 02.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.11%20Let's%20Explore%20CloudFront/Exam%20Tips%2002.png) <br>
 ![]() <br>
 ![]() <br>
 
