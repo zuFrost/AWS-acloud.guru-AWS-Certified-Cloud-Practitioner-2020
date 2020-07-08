@@ -89,9 +89,9 @@ EC2 Instance Types <br>
 
 ### 2.15 Using Roles
 
-![Exam Tips 01.png]() <br>
-![Exam Tips 02.png]() <br>
-![Exam Tips 03.png]() <br>
+![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.15%20Using%20Roles/Exam%20Tips%2001.png) <br>
+![Exam Tips 02.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.15%20Using%20Roles/Exam%20Tips%2002.png) <br>
+![Exam Tips 03.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.15%20Using%20Roles/Exam%20Tips%2003.png) <br>
 ![]() <br>
 ![]() <br>
 ![]() <br>
