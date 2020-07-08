@@ -77,6 +77,14 @@ EC2 Instance Types <br>
 ![Exam Tips 05.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.12%20EC2%20101/Exam%20Tips%2005.png) <br>
 
 ### 2.13 Let's Use EC2
+![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.13%20Let's%20Use%20EC2/Exam%20Tips%2001.png) <br>
+![Exam Tips 02.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.13%20Let's%20Use%20EC2/Exam%20Tips%2002.png) <br>
+![Exam Tips 03.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.13%20Let's%20Use%20EC2/Exam%20Tips%2003.png) <br>
+![Exam Tips 04.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.13%20Let's%20Use%20EC2/Exam%20Tips%2004.png) <br>
+![Exam Tips 05.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.13%20Let's%20Use%20EC2/Exam%20Tips%2005.png) <br>
+
+
+
 ![]() <br>
 ![]() <br>
 ![]() <br>
