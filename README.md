@@ -67,6 +67,18 @@ CloudFront is Amazons Content Delevery Network CDN <br>
 ![Exam Tips 02.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.11%20Let's%20Explore%20CloudFront/Exam%20Tips%2002.png) <br>
 
 ### 2.12 EC2 101
+Elastic Compute Cloud <br>
+EC2 Instance Types <br>
+![EC2 Instance Types.png]() <br>
+![Exam Tips 01.png]() <br>
+![Exam Tips 02.png]() <br>
+![Exam Tips 03.png]() <br>
+![Exam Tips 04.png]() <br>
+![Exam Tips 05.png]() <br>
+
+
 ![]() <br>
 ![]() <br>
+![]() <br>
+
 
