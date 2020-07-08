@@ -69,12 +69,12 @@ CloudFront is Amazons Content Delevery Network CDN <br>
 ### 2.12 EC2 101
 Elastic Compute Cloud <br>
 EC2 Instance Types <br>
-![EC2 Instance Types.png]() <br>
-![Exam Tips 01.png]() <br>
-![Exam Tips 02.png]() <br>
-![Exam Tips 03.png]() <br>
-![Exam Tips 04.png]() <br>
-![Exam Tips 05.png]() <br>
+![EC2 Instance Types.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.12%20EC2%20101/EC2%20Instance%20Types.png) <br>
+![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.12%20EC2%20101/Exam%20Tips%2001.png) <br>
+![Exam Tips 02.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.12%20EC2%20101/Exam%20Tips%2002.png) <br>
+![Exam Tips 03.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.12%20EC2%20101/Exam%20Tips%2003.png) <br>
+![Exam Tips 04.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.12%20EC2%20101/Exam%20Tips%2004.png) <br>
+![Exam Tips 05.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.12%20EC2%20101/Exam%20Tips%2005.png) <br>
 
 
 ![]() <br>
