@@ -31,6 +31,8 @@ Cloud Products https://aws.amazon.com/products/ <br>
 ### 2.8 S3 101
 Amazon Simple Storage Service <br>
 Amazon S3 storage classes https://docs.aws.amazon.com/AmazonS3/latest/dev/storage-class-intro.html <br>
+S3 is Object based. Key - Value. <br>
+![s3 key value.png]() <br>
 ### 2.9 Let's Create An S3 Bucket!
 ### 2.10 Let's Create A Website On S3
 ### 2.11 Let's Explore CloudFront
