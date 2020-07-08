@@ -104,12 +104,12 @@ EC2 Instance Types <br>
 
 
 ### 2.18 Databases 101
-![Relational Databases on AWS - RDS.png]() <br>
-![RDS key features.png]() <br>
-![Exam Tips 01.png]() <br>
-![Exam Tips 02.png]() <br>
-![Exam Tips 03.png]() <br>
-![Exam Tips 04.png]() <br>
+![Relational Databases on AWS - RDS.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.18%20Databases%20101/Relational%20Databases%20on%20AWS%20-%20RDS.png) <br>
+![RDS key features.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.18%20Databases%20101/RDS%20key%20features.png) <br>
+![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.18%20Databases%20101/Exam%20Tips%2001.png) <br>
+![Exam Tips 02.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.18%20Databases%20101/Exam%20Tips%2002.png) <br>
+![Exam Tips 03.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.18%20Databases%20101/Exam%20Tips%2003.png) <br>
+![Exam Tips 04.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.18%20Databases%20101/Exam%20Tips%2004.png) <br>
 
 
 
