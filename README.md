@@ -103,7 +103,18 @@ EC2 Instance Types <br>
 ![Exam Tips 02.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.17%20Let's%20Use%20A%20Load%20Balancer/Exam%20Tips%2002.png) <br>
 
 
+### 2.18 Databases 101
+![Relational Databases on AWS - RDS.png]() <br>
+![RDS key features.png]() <br>
+![Exam Tips 01.png]() <br>
+![Exam Tips 02.png]() <br>
+![Exam Tips 03.png]() <br>
+![Exam Tips 04.png]() <br>
 
+
+
+![]() <br>
+![]() <br>
 ![]() <br>
 ![]() <br>
 
