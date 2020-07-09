@@ -111,8 +111,21 @@ EC2 Instance Types <br>
 ![Exam Tips 03.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.18%20Databases%20101/Exam%20Tips%2003.png) <br>
 ![Exam Tips 04.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.18%20Databases%20101/Exam%20Tips%2004.png) <br>
 
+### 2.19 Let's provision an RDS instance
+
+![What we will do in this Lab.png]() <br>
+![Install WordPress UserData]() <br>
+![Exam Tips 01.png]() <br>
 
 
+
+![]() <br>
+![]() <br>
+![]() <br>
+![]() <br>
+![]() <br>
+![]() <br>
+![]() <br>
 ![]() <br>
 ![]() <br>
 ![]() <br>
