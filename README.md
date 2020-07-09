@@ -133,6 +133,8 @@ EC2 Instance Types <br>
 
 ### 2.24 Architecting For The Cloud Best Practices - Part 1
 https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf <br>
+
+### 2.25 Architecting For The Cloud Best Practices - Part 2
 ![]() <br>
 ![]() <br>
 ![]() <br>
