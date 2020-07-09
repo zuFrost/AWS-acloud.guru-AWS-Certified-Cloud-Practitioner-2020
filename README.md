@@ -137,8 +137,8 @@ https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf <br>
 ### 2.25 Architecting For The Cloud Best Practices - Part 2
 
 ### 2.26 Global AWS Services
-![Global AWS Services.png]() <br>
-![Global Views.png]() <br>
+![Global AWS Services.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.26%20Global%20AWS%20Services/Global%20AWS%20Services.png) <br>
+![Global Views.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.26%20Global%20AWS%20Services/Global%20Views.png) <br>
 
 ![]() <br>
 ![]() <br>
