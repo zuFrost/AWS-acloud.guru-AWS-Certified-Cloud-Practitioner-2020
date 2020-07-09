@@ -162,7 +162,26 @@ AWS Cloud Best Practices https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Pra
 ## Chapter 3
 ### 3.01 AWS Pricing 101
 How AWS Pricing Works https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf <br>
-![Exam Tips 01.png]() <br>
+![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2001.png) <br>
+![Exam Tips 02.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2002.png) <br>
+![Exam Tips 03.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2003.png) <br>
+![Exam Tips 04.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2004.png) <br>
+![Exam Tips 05.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2005.png) <br>
+![Exam Tips 06.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2006.png) <br>
+![Exam Tips 07.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2007.png) <br>
+![Exam Tips 08.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2008.png) <br>
+![Exam Tips 09.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2009.png) <br>
+![Exam Tips 10.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2010.png) <br>
+![Exam Tips 11.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2011.png) <br>
+![Exam Tips 12.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2012.png) <br>
+![Exam Tips 13.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2013.png) <br>
+![Exam Tips 14.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2014.png) <br>
+![Exam Tips 15.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2015.png) <br>
+![Exam Tips 16.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2016.png) <br>
+![Exam Tips 17.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2017.png) <br>
+![Exam Tips 18.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2018.png) <br>
+![Exam Tips 19.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2019.png) <br>
+
 
 ![]() <br>
 ![]() <br>
