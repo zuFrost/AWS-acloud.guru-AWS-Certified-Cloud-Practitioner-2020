@@ -123,7 +123,7 @@ EC2 Instance Types <br>
 ![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.21%20Let's%20Register%20A%20Domain%20Name/Exam%20Tips%2001.png) <br>
 
 ### 2.22 Elastic Beanstalk
-![Exam Tips 01.png]() <br>
+![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.22%20Elastic%20Beanstalk/Exam%20Tips%2001.png) <br>
 ![]() <br>
 ![]() <br>
 ![]() <br>
