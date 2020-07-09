@@ -117,9 +117,10 @@ EC2 Instance Types <br>
 ![Install WordPress UserData](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.19%20Let's%20provision%20an%20RDS%20instance/Install%20WordPress%20UserData.txt) <br>
 ![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.19%20Let's%20provision%20an%20RDS%20instance/Exam%20Tips%2001.png) <br>
 
+### 2.20 Autoscaling
 
-
-![]() <br>
+### 2.21 Let's Register A Domain Name
+![Exam Tips 01.png]() <br>
 ![]() <br>
 ![]() <br>
 ![]() <br>
