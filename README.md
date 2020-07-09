@@ -135,6 +135,18 @@ EC2 Instance Types <br>
 https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf <br>
 
 ### 2.25 Architecting For The Cloud Best Practices - Part 2
+
+### 2.26 Global AWS Services
+![Global AWS Services.png]() <br>
+![Global Views.png]() <br>
+
+![]() <br>
+![]() <br>
+![]() <br>
+![]() <br>
+![]() <br>
+![]() <br>
+![]() <br>
 ![]() <br>
 ![]() <br>
 ![]() <br>
