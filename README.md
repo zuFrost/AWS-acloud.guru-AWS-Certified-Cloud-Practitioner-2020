@@ -150,7 +150,7 @@ https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf <br>
 ![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.28%20CloudWatch%20101/Exam%20Tips%2001.png) <br>
 
 ### 2.29 AWS Systems Manager
-![Exam Tips 01.png]() <br>
+![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.29%20AWS%20Systems%20Manager/Exam%20Tips%2001.png) <br>
 
 
 
