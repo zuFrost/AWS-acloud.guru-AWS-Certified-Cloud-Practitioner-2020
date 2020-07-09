@@ -141,9 +141,9 @@ https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf <br>
 ![Global Views.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.26%20Global%20AWS%20Services/Global%20Views.png) <br>
 
 ### 2.27 What AWS Services Can Be Deployed On Premise
-![AWS Services on Premise.png]() <br>
-![AWS Services on Premise 2.png]() <br>
-![AWS Services used to Deploy Applicationd on Premise.png]() <br>
+![AWS Services on Premise.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.27%20What%20AWS%20Services%20Can%20Be%20Deployed%20On%20Premise/AWS%20Services%20on%20Premise.png) <br>
+![AWS Services on Premise 2.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.27%20What%20AWS%20Services%20Can%20Be%20Deployed%20On%20Premise/AWS%20Services%20on%20Premise%202.png) <br>
+![AWS Services used to Deploy Applicationd on Premise.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.27%20What%20AWS%20Services%20Can%20Be%20Deployed%20On%20Premise/AWS%20Services%20used%20to%20Deploy%20Applicationd%20on%20Premise.png) <br>
 
 
 
