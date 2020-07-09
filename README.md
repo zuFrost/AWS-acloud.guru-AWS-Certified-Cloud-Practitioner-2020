@@ -144,11 +144,10 @@ https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf <br>
 ![AWS Services on Premise.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.27%20What%20AWS%20Services%20Can%20Be%20Deployed%20On%20Premise/AWS%20Services%20on%20Premise1.png) <br>
 ![AWS Services used to Deploy Applicationd on Premise.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.27%20What%20AWS%20Services%20Can%20Be%20Deployed%20On%20Premise/AWS%20Services%20used%20to%20Deploy%20Applicationd%20on%20Premise.png) <br>
 
-
-
-![]() <br>
-![]() <br>
-![]() <br>
+### 2.28 CloudWatch 101
+![what can CloudWatch monitor.png]() <br>
+![CloudWatch and EC2.png]() <br>
+![Exam Tips 01.png]() <br>
 ![]() <br>
 ![]() <br>
 ![]() <br>
