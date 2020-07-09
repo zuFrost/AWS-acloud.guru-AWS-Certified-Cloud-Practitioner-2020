@@ -131,7 +131,8 @@ EC2 Instance Types <br>
 ![Exam Tips 03.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.23%20CloudFormation/Exam%20Tips%2003.png) <br>
 
 
-
+### 2.24 Architecting For The Cloud Best Practices - Part 1
+https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf <br>
 ![]() <br>
 ![]() <br>
 ![]() <br>
