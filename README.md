@@ -152,9 +152,9 @@ https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf <br>
 ### 2.29 AWS Systems Manager
 ![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.29%20AWS%20Systems%20Manager/Exam%20Tips%2001.png) <br>
 
-
-
-![]() <br>
+### 2.30 Cloud Concepts & Technology Summary - Part 1
+AWS Cloud Best Practices https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf <br>
+![Summary Exam Tips]() <br>
 ![]() <br>
 ![]() <br>
 ![]() <br>
