@@ -120,7 +120,7 @@ EC2 Instance Types <br>
 ### 2.20 Autoscaling
 
 ### 2.21 Let's Register A Domain Name
-![Exam Tips 01.png]() <br>
+![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.21%20Let's%20Register%20A%20Domain%20Name/Exam%20Tips%2001.png) <br>
 ![]() <br>
 ![]() <br>
 ![]() <br>
