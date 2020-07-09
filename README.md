@@ -158,7 +158,12 @@ AWS Cloud Best Practices https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Pra
 
 ### 2.31 Cloud Concepts & Technology Summary - Part 2
 ![Summary Exam Tips](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.31%20Cloud%20Concepts%20%26%20Technology%20Summary%20-%20Part%202/README.md) <br>
-![]() <br>
+
+## Chapter 3
+### 3.01 AWS Pricing 101
+How AWS Pricing Works https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf <br>
+![Exam Tips 01.png]() <br>
+
 ![]() <br>
 ![]() <br>
 ![]() <br>
