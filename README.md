@@ -148,7 +148,12 @@ https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf <br>
 ![what can CloudWatch monitor.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.28%20CloudWatch%20101/what%20can%20CloudWatch%20monitor.png) <br>
 ![CloudWatch and EC2.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.28%20CloudWatch%20101/CloudWatch%20and%20EC2.png) <br>
 ![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.28%20CloudWatch%20101/Exam%20Tips%2001.png) <br>
-![]() <br>
+
+### 2.29 AWS Systems Manager
+![Exam Tips 01.png]() <br>
+
+
+
 ![]() <br>
 ![]() <br>
 ![]() <br>
