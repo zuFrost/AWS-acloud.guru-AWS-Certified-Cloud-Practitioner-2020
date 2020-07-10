@@ -154,10 +154,6 @@ https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf <br>
 
 ### 2.30 Cloud Concepts & Technology Summary - Part 1
 https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
-![]() <br>
-![]() <br>
-![]() <br>
-=======
 AWS Cloud Best Practices https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf <br>
 ![Summary Exam Tips](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.30%20Cloud%20Concepts%20%26%20Technology%20Summary%20-%20Part%201/README.md) <br>
 
