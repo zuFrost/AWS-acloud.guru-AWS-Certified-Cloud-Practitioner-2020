@@ -233,6 +233,9 @@ AWS Shared Responsibility Model: EXPLAINED (song) https://www.youtube.com/watch?
 ### 4.03 AWS WAF & AWS Shield
 ![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/04.03%20AWS%20WAF%20%26%20AWS%20Shield/Exam%20Tips%2001.png) <br>
 
+### 4.04 AWS Inspector vs AWS Trusted Advisor vs CloudTrail
 ![Exam Tips 0.png]() <br>
+
+
 ![Exam Tips 0.png]() <br>
 ![Exam Tips 0.png]() <br>
