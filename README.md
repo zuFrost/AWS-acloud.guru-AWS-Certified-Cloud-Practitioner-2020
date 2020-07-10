@@ -222,8 +222,14 @@ AWS Total Cost of Ownership (TCO) Calculators https://aws.amazon.com/tco-calcula
 How AWS Pricing Works https://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf <br>
 ![Summary Exam Tips](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/tree/master/03.09%20Billing%20%26%20Pricing%20Summary) <br>
 
-
+## Chapter 4
+### 4.01 AWS Compliance & AWS Artifact
+### 4.02 Shared Responsibility Model
+AWS Shared Responsibility Model: EXPLAINED (song) https://www.youtube.com/watch?v=tIb5PGW_t1o <br>
+Модель общей ответственности https://aws.amazon.com/ru/compliance/shared-responsibility-model/ <br>
 ![Exam Tips 0.png]() <br>
+
+
 ![Exam Tips 0.png]() <br>
 ![Exam Tips 0.png]() <br>
 ![Exam Tips 0.png]() <br>
