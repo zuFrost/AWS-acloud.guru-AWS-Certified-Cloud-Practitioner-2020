@@ -194,7 +194,9 @@ How AWS Pricing Works https://d0.awsstatic.com/whitepapers/aws_pricing_overview.
 ![Exam Tips 03.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.03%20Different%20Support%20Levels/Exam%20Tips%2003.png) <br>
 
 ### 3.04 Resource Groups & Tagging
-![Exam Tips 0.png]() <br>
+![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.04%20Resource%20Groups%20%26%20Tagging/Exam%20Tips%2001.png) <br>
+![Exam Tips 02.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.04%20Resource%20Groups%20%26%20Tagging/Exam%20Tips%2002.png) <br>
+![Exam Tips 03.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.04%20Resource%20Groups%20%26%20Tagging/Exam%20Tips%2003.png) <br>
 
 
 
