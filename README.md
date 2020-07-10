@@ -230,6 +230,8 @@ AWS Shared Responsibility Model: EXPLAINED (song) https://www.youtube.com/watch?
 ![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/04.02%20Shared%20Responsibility%20Model/Exam%20Tips%2001.png) <br>
 ![Exam Tips 02.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/04.02%20Shared%20Responsibility%20Model/Exam%20Tips%2002.png) <br>
 
+### 4.03 AWS WAF & AWS Shield
+
 
 ![Exam Tips 0.png]() <br>
 ![Exam Tips 0.png]() <br>
