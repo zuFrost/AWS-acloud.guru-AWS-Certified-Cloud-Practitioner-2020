@@ -205,14 +205,16 @@ How AWS Pricing Works https://d0.awsstatic.com/whitepapers/aws_pricing_overview.
 ![Exam Tips 04.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.05%20Consolidated%20Billing/Exam%20Tips%2004.png) <br>
 ![Exam Tips 05.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.05%20Consolidated%20Billing/Exam%20Tips%2005.png) <br>
 
+### 3.06 AWS Organizations
 
-![]() <br>
-![]() <br>
-![]() <br>
-![]() <br>
-![]() <br>
-![]() <br>
-![]() <br>
-![]() <br>
+### 3.07 AWS Quick Start & AWS Landing Zone
+![Exam Tips 0.png]() <br>
 
 
+
+![Exam Tips 0.png]() <br>
+![Exam Tips 0.png]() <br>
+![Exam Tips 0.png]() <br>
+![Exam Tips 0.png]() <br>
+![Exam Tips 0.png]() <br>
+![Exam Tips 0.png]() <br>
