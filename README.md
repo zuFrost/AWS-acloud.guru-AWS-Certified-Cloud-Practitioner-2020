@@ -240,9 +240,10 @@ AWS Shared Responsibility Model: EXPLAINED (song) https://www.youtube.com/watch?
 ### 4.05 CloudWatch vs AWS Config
 ![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/04.05%20CloudWatch%20vs%20AWS%20Config/Exam%20Tips%2001.png) <br>
 
+### 4.06 Athena Vs Macie
+![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/04.06%20Athena%20Vs%20Macie/Exam%20Tips%2001.png) <br>
+![Exam Tips 02.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/04.06%20Athena%20Vs%20Macie/Exam%20Tips%2002.png) <br>
 
-
-![Exam Tips 0.png]() <br>
 ![Exam Tips 0.png]() <br>
 ![Exam Tips 0.png]() <br>
 ![Exam Tips 0.png]() <br>
