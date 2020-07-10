@@ -220,7 +220,7 @@ AWS Total Cost of Ownership (TCO) Calculators https://aws.amazon.com/tco-calcula
 
 ### 3.09 Billing & Pricing Summary
 How AWS Pricing Works https://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf <br>
-![Summary Exam Tips]() <br>
+![Summary Exam Tips](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/tree/master/03.09%20Billing%20%26%20Pricing%20Summary) <br>
 
 
 ![Exam Tips 0.png]() <br>
