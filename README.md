@@ -182,8 +182,9 @@ How AWS Pricing Works https://d0.awsstatic.com/whitepapers/aws_pricing_overview.
 ![Exam Tips 18.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2018.png) <br>
 ![Exam Tips 19.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.01%20AWS%20Pricing%20101/Exam%20Tips%2019.png) <br>
 
+### 3.02 AWS Budgets vs Cost Explorer
+![Exam Tips 01.png]() <br>
 
-![]() <br>
 ![]() <br>
 ![]() <br>
 ![]() <br>
