@@ -215,7 +215,8 @@ How AWS Pricing Works https://d0.awsstatic.com/whitepapers/aws_pricing_overview.
 SIMPLE MONTHLY CALCULATOR https://calculator.s3.amazonaws.com/index.html <br>
 AWS Pricing Calculator https://calculator.aws/#/ <br>
 AWS Total Cost of Ownership (TCO) Calculators https://aws.amazon.com/tco-calculator/ <br>
-![Exam Tips 0.png]() <br>
+![Exam Tips 01.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.08%20Different%20AWS%20Cost%20Calculators/Exam%20Tips%2001.png) <br>
+![Exam Tips 02.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/03.08%20Different%20AWS%20Cost%20Calculators/Exam%20Tips%2002.png) <br>
 
 
 
