@@ -17,7 +17,7 @@ https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html <b
 ![3 Types of Cloud Computing.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.01%20What%20Is%20Cloud%20Computing/3%20Types%20of%20Cloud%20Computing.png) <br>
 ![3 Types of Cloud Computing Deployments.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.01%20What%20Is%20Cloud%20Computing/3%20Types%20of%20Cloud%20Computing%20Deployments.png) <br>
 
-### 2.2 Around The World With AWS
+### 2.2 Around The World With AWS 
 Cloud Products https://aws.amazon.com/products/ <br>
 ![Choosing the right AWS Region.png](https://github.com/zuFrost/AWS-acloud.guru-AWS-Certified-Cloud-Practitioner-2020/blob/master/02.02%20Around%20The%20World%20With%20AWS/Choosing%20the%20right%20AWS%20Region.png) <br>
 ### 2.3 Let's Log In To AWS
